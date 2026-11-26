@@ -32,7 +32,37 @@ Your books are ordinary folders on your own computer. Nothing is sent anywhere, 
 
 > Author Studio is new software. It has been through extensive automated testing and a hands-on check of the installed app, but please keep backups of your books. Each release's notes say what was checked and how.
 
-## Install
+## Install with apt (Ubuntu, Debian, Linux Mint)
+
+This is the recommended way: you get new versions with your normal system updates.
+
+Run these once to add the Author Studio package source:
+
+```bash
+curl -fsSL https://arunselvan25.github.io/author-studio/apt/author-studio.gpg \
+  | sudo tee /usr/share/keyrings/author-studio.gpg >/dev/null
+
+echo "deb [arch=amd64 signed-by=/usr/share/keyrings/author-studio.gpg] https://arunselvan25.github.io/author-studio/apt stable main" \
+  | sudo tee /etc/apt/sources.list.d/author-studio.list
+```
+
+Then install:
+
+```bash
+sudo apt update
+sudo apt install author-studio
+```
+
+Packages are signed with the key `5104 BE82 800F 02AC DA3B 516E 3CEF 4E54 B0E6 DA6E`.
+
+To remove the app and the package source later:
+
+```bash
+sudo apt remove author-studio
+sudo rm /etc/apt/sources.list.d/author-studio.list /usr/share/keyrings/author-studio.gpg
+```
+
+## Install from a downloaded file
 
 **Ubuntu, Debian, Linux Mint**
 

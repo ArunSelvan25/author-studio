@@ -1,0 +1,16 @@
+Package: author-studio
+Architecture: amd64
+Version: 0.2.1
+Priority: optional
+Maintainer: Author Studio contributors
+Installed-Size: 23739
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/a/author-studio/author-studio_0.2.1_amd64.deb
+Size: 6559562
+MD5sum: 5ca7b14c04fe70fdca04b460938b0cd8
+SHA1: 8e80378246972df9aa9b491b3a6fa0d16fc1b8ba
+SHA256: 732d3195bdb4e4374cfd0ab9bf48e4f10702a9689666add412e5965859ce7901
+SHA512: f97e2c9eeeeb47eb4fdcc8616be6c60c81f46fb3033d9be5c7e54b45f55a01bc9db2157cd6598595abc8fb8dc2f7e1869eca622d60588a06a9c019f4da14dc77
+Description: A calm writing studio for authors
+ A local-first desktop writing studio for book authors.
+

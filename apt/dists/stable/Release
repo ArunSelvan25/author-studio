@@ -1,0 +1,20 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Thu, 26 Nov 2026 13:22:13 +0000
+Description: Author Studio packages
+Label: Author Studio
+Origin: Author Studio
+Suite: stable
+MD5Sum:
+ 62d45f3878cf4e56e99d75dd44d7de21              661 main/binary-amd64/Packages
+ 08663ee0f89d0e869c49ca98f7869db6              455 main/binary-amd64/Packages.gz
+SHA1:
+ 1453e744ee6f614e12a460ad57548ce643d1a4a2              661 main/binary-amd64/Packages
+ 1b36716f0a9b09dff101dbaaa367d1d164941b3d              455 main/binary-amd64/Packages.gz
+SHA256:
+ 5dd9e6cb909ef8d42f0c51f7b481576178000a80475dc74ee209a75d9be073c0              661 main/binary-amd64/Packages
+ 8c665cf2d6e4d521ad97920cc986bef77e049007b006c7fc583d5c4327ae3624              455 main/binary-amd64/Packages.gz
+SHA512:
+ be312e173708af2a720f268bed03803ac9c4c8cf6793a619489dc5a404f17d52c70f2ebf695f9e7cbc78ad5958f6ece1b3d90adc3b197c3ea6bcdc3ec3a580bc              661 main/binary-amd64/Packages
+ 1a58a56e99dba1314319d85e0d93ac77e89cbcc0db7f85de44a228519196c67daa7d5751aaf3fd05bf94f974271caf489a0514a38f261a33f7962b05ee46be88              455 main/binary-amd64/Packages.gz
