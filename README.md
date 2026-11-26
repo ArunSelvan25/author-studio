@@ -20,7 +20,7 @@ Your books are ordinary folders on your own computer. Nothing is sent anywhere, 
 
 ## Download (Linux, 64-bit)
 
-**[Go to the downloads page](https://github.com/ArunSelvan25/author-studio/releases)**
+**[Download the latest version](https://github.com/ArunSelvan25/author-studio/releases/latest)**
 
 | Your system | File to download |
 |---|---|
@@ -30,7 +30,7 @@ Your books are ordinary folders on your own computer. Nothing is sent anywhere, 
 
 **Requires Ubuntu 26.04 or a distribution of similar age.** Older systems are not supported yet.
 
-> **Beta.** Author Studio is in beta. It has been through extensive automated testing, but it is new software: keep backups of your books. The "Not yet verified" section of each release's notes says exactly what has and has not been checked.
+> Author Studio is new software. It has been through extensive automated testing and a hands-on check of the installed app, but please keep backups of your books. Each release's notes say what was checked and how.
 
 ## Install
 
